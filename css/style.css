@@ -1,0 +1,50 @@
+body {
+  background-color:  #e6f2ff;
+}
+
+#header {
+  text-align: center;
+  font-size: 50px;
+  color: black;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 2px 2px white;
+}
+
+#outline {
+  background-color: #e6e6e6;
+  margin-left: 34%;
+  margin-top: 2%;
+  height: 35em;
+  width: 30em;
+  border-radius: 40px;
+  border: 2px solid black;
+  box-shadow: 4px 4px 4px black;
+}
+
+#display {
+  background-color: #ccffcc;
+  border: 2px solid black;
+  border-radius: 10px;
+  height: 5em;
+  width: 28em;
+  margin-top: 5%;
+  margin-left: 3%;
+}
+
+#value {
+  text-align: right;
+  color: black;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.firstline, .secondline, .thirdline, .fourthline, .fifthline {
+  font-family: 'Orbitron', sans-serif;
+  margin: 1%;
+  margin-top: 3%;
+}
+
+#AC, #CE, #divide, #times, #seven, #eight, #nine, #minus, #four, #five, #six, #plus, #one, #two, #three, #equals, #zero, #dot {
+  height: 3.0em;
+  font-size: 20px;
+  box-shadow: 3px 3px 5px black;
+}
